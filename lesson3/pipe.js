@@ -5,6 +5,6 @@
 
 var fs = require('fs');
 
-function copy();
+function copy(){};
 
 copy('./1.txt','./2.txt');
